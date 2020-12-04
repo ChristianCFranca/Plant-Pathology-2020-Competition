@@ -1,3 +1,9 @@
+# Datasets
+128px_images
+256px_images
+384px_images
+images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
